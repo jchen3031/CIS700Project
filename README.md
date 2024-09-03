@@ -14,4 +14,13 @@ https://arxiv.org/abs/2404.00207
 Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals
 https://arxiv.org/abs/2310.00603
 <br>
+Can Prompt Probe Pretrained Language Models? Understanding the Invisible Risks from a Causal View
+https://arxiv.org/abs/2203.12258
+<br>
 ### Causal Inference & DQN
+Causally Aligned Curriculum Learning
+https://openreview.net/forum?id=hp4yOjhwTs
+Training a Resilient Q-Network against Observational Interference
+https://arxiv.org/abs/2102.09677
+Causal Deep Q Networks
+https://link.springer.com/chapter/10.1007/978-981-97-4677-4_21
